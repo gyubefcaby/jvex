@@ -2,18 +2,11 @@
 {
     public class PluginInfo
     {
-        public const string GUID = "org.iidk.gorillatag.iimenu";
-        public const string Name = "ii's Stupid Menu";
-        public const string Description = "Created by @goldentrophy with love <3";
-        public const string BuildTimestamp = "2025-07-11T21:44:20Z";
-        public const string Version = "6.6.2";
+        public const string GUID = "org.caby.gtag-mod-menu.jvex";
+        public const string Name = "JveX"
+        public const string Description = "A mod menu smh";
+        public const string Version = "0.0.1 beta";
 
-        public const string BaseDirectory = "iisStupidMenu";
-
-#if DEBUG
-        public static bool BetaBuild = true;
-#else
-        public static bool BetaBuild = false;
-#endif
+        public const string BaseDirectory = "JveX";
     }
 }
